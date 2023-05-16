@@ -7,7 +7,6 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="Alba.CsConsoleFormat" Version="1.0.0" />
       <PackageReference Include="Autofac" Version="7.0.1" />
       <PackageReference Include="ConsoleTables" Version="2.4.2" />
     </ItemGroup>
