@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CourseworkTask", "CourseworkTask\CourseworkTask.csproj", "{8F690228-88FB-43B8-AC74-812D1EB0B97D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreedyAlgorithm", "GreedyAlgorithm\GreedyAlgorithm.csproj", "{05FD1042-5E13-408D-A527-9AF6B414F251}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalSearchAlgorithm", "LocalSearchAlgorithm\LocalSearchAlgorithm.csproj", "{663D1233-01D5-4623-9858-FD73AEB0B620}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskRunner", "TaskRunner\TaskRunner.csproj", "{0DDC61FF-652B-4ECE-B5FB-F7B3EDA3440F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F690228-88FB-43B8-AC74-812D1EB0B97D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F690228-88FB-43B8-AC74-812D1EB0B97D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F690228-88FB-43B8-AC74-812D1EB0B97D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F690228-88FB-43B8-AC74-812D1EB0B97D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05FD1042-5E13-408D-A527-9AF6B414F251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05FD1042-5E13-408D-A527-9AF6B414F251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05FD1042-5E13-408D-A527-9AF6B414F251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05FD1042-5E13-408D-A527-9AF6B414F251}.Release|Any CPU.Build.0 = Release|Any CPU
+		{663D1233-01D5-4623-9858-FD73AEB0B620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{663D1233-01D5-4623-9858-FD73AEB0B620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{663D1233-01D5-4623-9858-FD73AEB0B620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{663D1233-01D5-4623-9858-FD73AEB0B620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DDC61FF-652B-4ECE-B5FB-F7B3EDA3440F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DDC61FF-652B-4ECE-B5FB-F7B3EDA3440F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DDC61FF-652B-4ECE-B5FB-F7B3EDA3440F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DDC61FF-652B-4ECE-B5FB-F7B3EDA3440F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

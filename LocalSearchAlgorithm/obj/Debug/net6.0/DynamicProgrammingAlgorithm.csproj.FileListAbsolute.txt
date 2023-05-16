@@ -1,0 +1,15 @@
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/DynamicProgrammingAlgorithm/bin/Debug/net6.0/CourseworkTask.dll
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/DynamicProgrammingAlgorithm/bin/Debug/net6.0/CourseworkTask.pdb
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/DynamicProgrammingAlgorithm/obj/Debug/net6.0/DynamicProgrammingAlgorithm.csproj.AssemblyReference.cache
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/DynamicProgrammingAlgorithm/obj/Debug/net6.0/DynamicProgrammingAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/DynamicProgrammingAlgorithm/obj/Debug/net6.0/DynamicProgrammingAlgorithm.AssemblyInfoInputs.cache
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/DynamicProgrammingAlgorithm/obj/Debug/net6.0/DynamicProgrammingAlgorithm.AssemblyInfo.cs
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/DynamicProgrammingAlgorithm/obj/Debug/net6.0/DynamicProgrammingAlgorithm.csproj.CoreCompileInputs.cache
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/DynamicProgrammingAlgorithm/obj/Debug/net6.0/DynamicProgrammingAlgorithm.csproj.CopyComplete
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/DynamicProgrammingAlgorithm/bin/Debug/net6.0/LocalSearchAlgorithm.deps.json
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/DynamicProgrammingAlgorithm/bin/Debug/net6.0/LocalSearchAlgorithm.dll
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/DynamicProgrammingAlgorithm/bin/Debug/net6.0/LocalSearchAlgorithm.pdb
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/DynamicProgrammingAlgorithm/obj/Debug/net6.0/LocalSearchAlgorithm.dll
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/DynamicProgrammingAlgorithm/obj/Debug/net6.0/refint/LocalSearchAlgorithm.dll
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/DynamicProgrammingAlgorithm/obj/Debug/net6.0/LocalSearchAlgorithm.pdb
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/DynamicProgrammingAlgorithm/obj/Debug/net6.0/ref/LocalSearchAlgorithm.dll

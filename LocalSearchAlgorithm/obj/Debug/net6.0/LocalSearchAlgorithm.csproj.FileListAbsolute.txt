@@ -1,0 +1,15 @@
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/LocalSearchAlgorithm/bin/Debug/net6.0/LocalSearchAlgorithm.deps.json
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/LocalSearchAlgorithm/bin/Debug/net6.0/LocalSearchAlgorithm.dll
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/LocalSearchAlgorithm/bin/Debug/net6.0/LocalSearchAlgorithm.pdb
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/LocalSearchAlgorithm/bin/Debug/net6.0/CourseworkTask.dll
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/LocalSearchAlgorithm/bin/Debug/net6.0/CourseworkTask.pdb
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/LocalSearchAlgorithm/obj/Debug/net6.0/LocalSearchAlgorithm.csproj.AssemblyReference.cache
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/LocalSearchAlgorithm/obj/Debug/net6.0/LocalSearchAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/LocalSearchAlgorithm/obj/Debug/net6.0/LocalSearchAlgorithm.AssemblyInfoInputs.cache
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/LocalSearchAlgorithm/obj/Debug/net6.0/LocalSearchAlgorithm.AssemblyInfo.cs
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/LocalSearchAlgorithm/obj/Debug/net6.0/LocalSearchAlgorithm.csproj.CoreCompileInputs.cache
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/LocalSearchAlgorithm/obj/Debug/net6.0/LocalSearchAlgorithm.csproj.CopyComplete
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/LocalSearchAlgorithm/obj/Debug/net6.0/LocalSearchAlgorithm.dll
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/LocalSearchAlgorithm/obj/Debug/net6.0/refint/LocalSearchAlgorithm.dll
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/LocalSearchAlgorithm/obj/Debug/net6.0/LocalSearchAlgorithm.pdb
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/LocalSearchAlgorithm/obj/Debug/net6.0/ref/LocalSearchAlgorithm.dll

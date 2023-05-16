@@ -1,0 +1,15 @@
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/GreedyAlgorithm/bin/Debug/net6.0/GreedyAlgorithm.deps.json
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/GreedyAlgorithm/bin/Debug/net6.0/GreedyAlgorithm.dll
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/GreedyAlgorithm/bin/Debug/net6.0/GreedyAlgorithm.pdb
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/GreedyAlgorithm/bin/Debug/net6.0/CourseworkTask.dll
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/GreedyAlgorithm/bin/Debug/net6.0/CourseworkTask.pdb
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/GreedyAlgorithm/obj/Debug/net6.0/GreedyAlgorithm.csproj.AssemblyReference.cache
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/GreedyAlgorithm/obj/Debug/net6.0/GreedyAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/GreedyAlgorithm/obj/Debug/net6.0/GreedyAlgorithm.AssemblyInfoInputs.cache
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/GreedyAlgorithm/obj/Debug/net6.0/GreedyAlgorithm.AssemblyInfo.cs
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/GreedyAlgorithm/obj/Debug/net6.0/GreedyAlgorithm.csproj.CoreCompileInputs.cache
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/GreedyAlgorithm/obj/Debug/net6.0/GreedyAlgorithm.csproj.CopyComplete
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/GreedyAlgorithm/obj/Debug/net6.0/GreedyAlgorithm.dll
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/GreedyAlgorithm/obj/Debug/net6.0/refint/GreedyAlgorithm.dll
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/GreedyAlgorithm/obj/Debug/net6.0/GreedyAlgorithm.pdb
+/Users/dimakatanov/RiderProjects/Coursework_DOvIUS/GreedyAlgorithm/obj/Debug/net6.0/ref/GreedyAlgorithm.dll
