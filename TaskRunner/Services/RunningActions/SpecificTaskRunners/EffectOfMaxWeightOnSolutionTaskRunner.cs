@@ -5,6 +5,7 @@ using CourseworkTask.Models;
 using GreedyAlgorithm.Interfaces;
 using LocalSearchAlgorithm.Interfaces;
 using TaskRunner.Enums;
+using TaskRunner.Extensions;
 using TaskRunner.Interfaces.RunningActions.SpecificTaskRunners;
 using TaskRunner.Models;
 
@@ -46,6 +47,7 @@ public class EffectOfMaxWeightOnSolutionTaskRunner : ISpecificTaskRunner
             table.AddRow(maxWeight, greedyAverageTargetFunctionValue, localSearchAverageTargetFunctionValue);
         }
 
+        table.AddAverageValues();
         Console.WriteLine(table);
     }
 

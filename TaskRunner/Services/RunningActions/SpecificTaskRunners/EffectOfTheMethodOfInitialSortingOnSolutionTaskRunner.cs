@@ -2,6 +2,7 @@ using ConsoleTables;
 using CourseworkTask.Extensions;
 using CourseworkTask.Interfaces;
 using GreedyAlgorithm.Interfaces;
+using TaskRunner.Extensions;
 using TaskRunner.Interfaces.RunningActions.SpecificTaskRunners;
 using TaskRunner.Models;
 
@@ -40,6 +41,7 @@ public class EffectOfTheMethodOfInitialSortingOnSolutionTaskRunner : ISpecificTa
                 targetFunctionValueWithDescendingSorting.Format());
         }
 
+        table.AddAverageValues();
         Console.WriteLine(table);
     }
 

@@ -6,6 +6,7 @@ using CourseworkTask.Models;
 using GreedyAlgorithm.Interfaces;
 using LocalSearchAlgorithm.Interfaces;
 using TaskRunner.Enums;
+using TaskRunner.Extensions;
 using TaskRunner.Interfaces.RunningActions.SpecificTaskRunners;
 using TaskRunner.Models;
 
@@ -47,6 +48,10 @@ public class EffectOfTaskSizeOnTimeTaskRunner : ISpecificTaskRunner
             var localSearchAverageExecutionTime = GetAverageExecutionTimeOfAlgorithm(tasks, AlgorithmType.LocalSearch);
             table.AddRow(taskSize, greedyAverageExecutionTime, localSearchAverageExecutionTime);
         }
+
+        table.AddAverageValues(
+            valueSelector: v => v.Split(' ')[0],
+            valueFormatter: v => string.Format(TimeExecutionTemplate, v));
 
         Console.WriteLine(table);
     }

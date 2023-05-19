@@ -2,6 +2,7 @@ using ConsoleTables;
 using CourseworkTask.Extensions;
 using CourseworkTask.Interfaces;
 using LocalSearchAlgorithm.Interfaces;
+using TaskRunner.Extensions;
 using TaskRunner.Interfaces.RunningActions.SpecificTaskRunners;
 using TaskRunner.Models;
 
@@ -43,6 +44,7 @@ public class EffectOfNumberOfIterationsOnSolutionTaskRunner : ISpecificTaskRunne
             table.AddRow(rowValues.ToArray());
         }
 
+        table.AddAverageValues();
         Console.WriteLine(table);
     }
 
