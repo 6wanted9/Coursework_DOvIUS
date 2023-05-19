@@ -13,7 +13,7 @@ namespace TaskRunner.Services.RunningActions.SpecificTaskRunners;
 public class EffectOfMaxWeightOnSolutionTaskRunner : ISpecificTaskRunner
 {
     private const int ExperimentsAmount = 20;
-    private const int MaxWeightsAmount = 4;
+    private const int MaxWeightsAmount = 10;
     private const int StepBetweenMaxWeights = 5;
 
     private readonly ITaskConditionsGenerator _taskConditionsGenerator;

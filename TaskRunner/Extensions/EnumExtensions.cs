@@ -2,7 +2,7 @@ namespace TaskRunner.Extensions;
 
 internal static class EnumExtensions
 {
-    public static bool IsValid<TEnum>(string? key, out TEnum value)
+    public static bool IsKeyValid<TEnum>(string? key, out TEnum value)
         where TEnum : struct, Enum
     {
         if (string.IsNullOrEmpty(key) ||

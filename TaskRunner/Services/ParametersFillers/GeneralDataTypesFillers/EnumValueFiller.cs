@@ -14,7 +14,7 @@ public class EnumValueFiller : IEnumValueFiller
         Console.Write(GetEnumValues<TEnum>());
         Console.Write(message);
         var readValue = Console.ReadLine();
-        if (!EnumExtensions.IsValid<TEnum>(readValue, out var enumValue))
+        if (!EnumExtensions.IsKeyValid<TEnum>(readValue, out var enumValue))
         {
             throw new Exception("Invalid input.");
         }
